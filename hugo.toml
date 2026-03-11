@@ -1,6 +1,6 @@
-baseURL = 'https://docs.snapsite.xyz/'
+baseURL = 'https://butterfly-docs.github.io/'
 languageCode = 'en-us'
-title = 'snapsite - Docs'
+title = 'Butterfly - Docs'
 
 [module]
     [[module.imports]]
